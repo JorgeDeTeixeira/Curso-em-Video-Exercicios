@@ -1,0 +1,10 @@
+# Exercício Python 4: Faça um programa que leia algo pelo teclado e mostre na tela o seu tipo primitivo e todas as informações possíveis sobre ele.
+string = str(input("Digite algo:"))
+print(f"O tipo primitivo desse valor é:{type(string)}")
+print(f"Só tem espaços?")
+print(f"É um número? {string.isnumeric()}")
+print(f"É alfabético? {string.isalpha()}")
+print(f"É alfanúmerico? {string.isalpha()}")
+print(f"Está em maiúsculo? {string.isupper()}")
+print(f"Está em mínusculo? {string.islower()}")
+print(f"Está capitalizado? {string.istitle()}")
