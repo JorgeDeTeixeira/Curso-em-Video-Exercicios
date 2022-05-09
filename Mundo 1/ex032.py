@@ -6,4 +6,4 @@ if ano == 0:
 if ano % 4 == 0 and ano % 100 != 00 or ano % 400 == 0:
     print(f"{ano} é bissexto!")
 else:
-    print("Ele não é bissexto!")
+    print(f"{ano} não é bissexto!")
