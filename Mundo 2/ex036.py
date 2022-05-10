@@ -10,3 +10,4 @@ if mensalidade <= excedente:
     print("Empréstimo pode ser CONCEDIDO")
 else:
     print("Empréstimo NEGADO!")
+    
