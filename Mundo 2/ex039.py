@@ -10,7 +10,7 @@ elif idade < idade:
     falta = 18 - idade
     anos = atual + falta
     print(f"Falta {falta} anos para o seu alistamento!")
-    print(f"Seu alistamento será em {anos}")
+    print(f"Seu alistamento será em {anos} ")
 else:
     falta = idade - 18
     anos = atual - falta
