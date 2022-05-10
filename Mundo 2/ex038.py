@@ -5,5 +5,5 @@ if n1  > n2:
     print(f"{n1} é maior quê {n2}!")
 elif n2 > n1:
     print(f"{n2} é maior quê {n1}!")
-else:
+elif n1 == n2:
     print("Os dois são iguais!")
