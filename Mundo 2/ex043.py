@@ -1,4 +1,3 @@
-Exércicio 42 - Mundo 2
 # – IMC abaixo de 18,5: Abaixo do Peso
 
 # – Entre 18,5 e 25: Peso Ideal
