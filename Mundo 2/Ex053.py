@@ -12,4 +12,4 @@ print(f"O inverso de {junto} é {inverso}")
 if inverso == junto:
     print("É UM PALINDROMO")
 else:
-    print("NÃO É UM PALINDROMO")
+    print("NÃO É UM PALINDROMO") 
