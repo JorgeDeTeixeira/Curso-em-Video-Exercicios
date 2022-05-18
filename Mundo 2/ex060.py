@@ -1,3 +1,4 @@
+from time import sleep
 n = int(input("Digite o número para ver seu fatorial:"))
 c = n
 f = 1
